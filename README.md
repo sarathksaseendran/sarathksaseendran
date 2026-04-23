@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,android,kotlin,swift,nodejs,php,mysql,aws,firebase,js" />
+<img src="https://skillicons.dev/icons?i=react,androidstudio,java,kotlin,swift,nodejs,php,mysql,aws,firebase,js,git,npm" />
 
 </p>
 
@@ -103,11 +103,11 @@ Fitness booking & class management app
 
 ## 🧩 What I Bring
 
-✔️ Scalable mobile architecture
-✔️ Cross-platform expertise
-✔️ Performance optimization
-✔️ Clean, maintainable code
-✔️ Strong debugging & production support
+✔️ Scalable mobile architecture*
+✔️ Cross-platform expertise*
+✔️ Performance optimization*
+✔️ Clean, maintainable code*
+✔️ Strong debugging & production support*
 
 ---
 
