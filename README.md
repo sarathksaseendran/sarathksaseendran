@@ -1,167 +1,127 @@
-# 👋 Hi, I'm Sarath K
+<!-- 🔥 PROFILE HEADER -->
 
-🚀 Senior Mobile Application Developer | Full Stack Engineer
-📱 10+ Years Experience | Android • iOS • React Native
+<h1 align="center">Hi 👋, I'm Sarath K</h1>
+<h3 align="center">🚀 Senior Mobile Developer | React Native • Android • iOS | 10+ Years Experience</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Mobile+App+Developer;React+Native+Specialist;Android+%7C+iOS+Engineer;10%2B+Years+Experience;Building+Scalable+Apps&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a mobile-first engineer with over a decade of experience building **production-grade applications** across Android, iOS, and cross-platform ecosystems.
-
-* 📱 7+ years in **Android & iOS development**
-* ⚛️ 5+ years in **React Native (Hybrid Apps)**
-* 🔧 Strong backend experience with **Node.js, PHP (CodeIgniter)**
-* 🏗️ Experienced in **scalable app architecture & enterprise apps**
-* 🧪 Focus on **performance, maintainability & clean code**
-
-Currently working on enterprise-level applications, collaborating with cross-functional teams and delivering high-impact features.
+* 📱 10+ years building **production mobile applications**
+* ⚛️ 5+ years in **React Native (cross-platform)**
+* 🧩 Strong in **scalable architecture & clean code**
+* 🌍 Worked on **international + enterprise-level projects**
+* 🔧 Backend experience with **Node.js & PHP**
+* 🚀 Passionate about **performance & user experience**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+<p align="center">
 
-![React Native](https://img.shields.io/badge/-React%20Native-black?logo=react)
-![Android](https://img.shields.io/badge/-Android-green?logo=android)
-![iOS](https://img.shields.io/badge/-iOS-black?logo=apple)
+<img src="https://skillicons.dev/icons?i=react,reactnative,android,kotlin,swift,nodejs,php,mysql,aws,firebase,js" />
 
-### 💻 Programming
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift)
-![PHP](https://img.shields.io/badge/-PHP-blue?logo=php)
-
-### ⚙️ Backend & Tools
-
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?logo=firebase)
-![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?logo=microsoftsqlserver)
+</p>
 
 ---
 
-## 🏢 Professional Experience
-
-### 💼 Senior Frontend Developer (React Native / React JS)
-
-**Walking Tree Resources Pvt Ltd (Client: Infosys - MyWorkplace)**
-📅 2025 – Present
-
-* Developed and maintained enterprise-level application features
-* Fixed production issues and improved system stability
-* Collaborated with backend, QA, and business teams
-* Worked on performance optimization and code quality
-
----
-
-### 📱 Mobile Application Developer
-
-**Bpract Software Solutions LLP**
-📅 2020 – 2024
-
-Worked on multiple **live apps on Play Store & App Store**
-
-#### 🚀 Key Projects
-
-* 🔗 BitcoinTAF (Android & iOS)
-* 🔗 Sparissimo (MLM Platform)
-* 🔗 Sparissimo API App
-* 🔗 Hotel Booking App
-* 🔗 CloudMLM (Hybrid App)
-* 🔗 Fabfit (Fitness App)
-
----
-
-### 📱 Android Developer
-
-**Ezoro Technologies**
-📅 2019 – 2020
-
-* 🛒 Built **Ellokart** (E-commerce platform with location-based shopping)
-
----
-
-### 🌍 Mobile Developer (International Projects)
-
-**Fast Programming – Saudi Arabia**
-📅 2016 – 2019
-
-* 📦 Swaptime (Android & iOS)
-* 🚗 Dynate & Driver App (iOS)
-* 🛍️ Mabieat
-* 🔄 Wakalate
-
----
-
-### 💻 Backend Developer (PHP - CodeIgniter)
-
-**Infinite Open Source Solutions**
-📅 2015 – 2016
-
-* Developed APIs for mobile apps
-* Worked on backend systems and integrations
-
----
-
-## 🚀 Featured Apps
+## 🚀 Featured Projects
 
 ### 📊 BitcoinTAF
 
-Crypto analytics and trading insights app
+Crypto analytics mobile application
 🔗 https://play.google.com/store/apps/details?id=com.bitcointaf
 
 ---
 
 ### 🧾 Sparissimo (MLM Platform)
 
-Complete MLM system with mobile apps
+Full MLM ecosystem (Mobile + API)
 🔗 https://play.google.com/store/apps/details?id=com.sparissimo
 
 ---
 
 ### 🛒 Ellokart
 
-Location-based shopping app
+Location-based e-commerce platform
 🔗 https://play.google.com/store/apps/details?id=com.ellokart.customer
 
 ---
 
 ### 💪 Fabfit
 
-Fitness class booking application
+Fitness booking & class management app
 🔗 https://play.google.com/store/apps/details?id=com.bpract.fabfitapp
 
 ---
 
-## 📊 GitHub Stats
+## 🏢 Experience Snapshot
 
-![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathksaseendran\&show_icons=true)
+* 💼 **Infosys (Client Project - MyWorkplace)**
+  → Enterprise app development, production fixes, feature delivery
+
+* 📱 **Bpract Software Solutions**
+  → Built multiple live Android & iOS apps
+
+* 🌍 **Fast Programming (Saudi Arabia)**
+  → International mobile apps (Swaptime, Dynate, Mabieat)
+
+* ⚙️ **Backend (PHP - CodeIgniter)**
+  → API development & integrations
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sarathksaseendran)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarathksaseendran&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=sarathksaseendran&theme=radical" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarathksaseendran&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarathksaseendran/sarathksaseendran/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧩 What I Bring
+
+✔️ Scalable mobile architecture
+✔️ Cross-platform expertise
+✔️ Performance optimization
+✔️ Clean, maintainable code
+✔️ Strong debugging & production support
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 [sarath.k.shk@gmail.com](mailto:sarath.k.shk@gmail.com)
-* 💼 https://linkedin.com/in/YOUR_PROFILE
+<p align="center">
+  <a href="https://linkedin.com/in/sarath-k-ba6655b4"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"></a>
+  <a href="mailto:sarath.k.shk@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail"></a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 💡 Motto
 
-Started as a support engineer → evolved into a full-stack mobile developer with global project experience 🌍
+> “From support engineer to senior developer — built through consistency, real-world problem solving, and continuous learning.” 🚀
 
-
-![banner](https://your-image-link.gif)
+---
