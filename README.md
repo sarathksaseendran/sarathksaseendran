@@ -111,19 +111,23 @@ Fitness booking & class management app
 
 ## 🧩 What I Bring
 
-✔️ Scalable mobile architecture*
-✔️ Cross-platform expertise*
-✔️ Performance optimization*
-✔️ Clean, maintainable code*
-✔️ Strong debugging & production support*
+* 🏗️ **Scalable mobile architecture**
+* 📱 **Cross-platform expertise (React Native/Android/iOS)**
+* ⚡ **Performance optimization & smooth UX**
+* 🧹 **Clean, maintainable, and testable code**
+* 🐞 **Strong debugging & production support**
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarath-k-ba6655b4"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"></a>
-  <a href="mailto:sarath.k.shk@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail"></a>
+  <a href="https://linkedin.com/in/sarath-k-ba6655b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:sarath.k.shk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 </p>
 
 ---
