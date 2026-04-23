@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Sarath K - Senior Mobile Developer Banner">
+</p>
+
 <!-- 🔥 PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Sarath K</h1>
@@ -30,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 ### 📊 BitcoinTAF
 
@@ -58,7 +62,7 @@ Location-based e-commerce platform
 Fitness booking & class management app
 🔗 https://play.google.com/store/apps/details?id=com.bpract.fabfitapp
 
----
+--- -->
 
 ## 🏢 Experience Snapshot
 
@@ -76,7 +80,7 @@ Fitness booking & class management app
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarathksaseendran&show_icons=true&theme=radical" height="160"/>
@@ -103,7 +107,7 @@ Fitness booking & class management app
   </picture>
 </p>
 
----
+--- -->
 
 ## 🧩 What I Bring
 
