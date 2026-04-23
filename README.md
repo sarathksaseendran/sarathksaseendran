@@ -96,7 +96,7 @@ Fitness booking & class management app
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarathksaseendran/sarathksaseendran/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sarathksaseendran/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
